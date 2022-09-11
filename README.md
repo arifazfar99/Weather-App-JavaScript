@@ -8,4 +8,4 @@ The API provider is http://www.OpenWeatherMap.org
 
 Tutorial by http://youtube.com/CodeExplained
 
-Thanks to CodeExplained for sharing key API
+Thanks to CodeExplained for sharing API key.
