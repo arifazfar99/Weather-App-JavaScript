@@ -6,4 +6,6 @@ The icons used are created by the Graphic Designer Ashley Jager. Link to her Rep
 
 The API provider is http://www.OpenWeatherMap.org
 
+Tutorial by http://youtube.com/CodeExplained
+
 Thanks to CodeExplained for sharing key API
