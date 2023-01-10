@@ -5,7 +5,3 @@ The weather app will show the weather information that it will get from the API 
 The icons used are created by the Graphic Designer Ashley Jager. Link to her Repo: https://github.com/manifestinteractive/weather-underground-icons
 
 The API provider is http://www.OpenWeatherMap.org
-
-Tutorial by http://youtube.com/CodeExplained
-
-Thanks to CodeExplained for sharing API key.
